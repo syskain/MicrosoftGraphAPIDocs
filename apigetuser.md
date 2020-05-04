@@ -7,7 +7,7 @@ ms.prod: "microsoft-identity-platform"
 doc_type: apiPageType
 ---
 
-# Get a user
+# Get a user I would like to add one more line because i am learning how to use github MOON TACOS
 
 Retrieve the properties and relationships of user object.
 
